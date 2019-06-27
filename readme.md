@@ -84,7 +84,14 @@ This POC was built in Nodejs
 
 To expand further on this POC
 
+## features
+
 - break the assumption that all items are situated separately from the possible destinations and find a way to dispatch trucks accordingly
   I already started the process but ran out of time - sort original array of items by distance from the warehouse - continously dispatch trailers to stops and greedily pick up items based on already implemented algorithm that minimises distance (to save time) and optimises capacity of the trailer
 
 - show a GUI of truck paths
+
+## improvements
+
+- clean up the code
+- Split it into different segments (SOLID)
