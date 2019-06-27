@@ -1,0 +1,18 @@
+[
+  { "id": 0, "name": "A", "long": 14, "lat": 56 },
+  { "id": 1, "name": "B", "long": 13, "lat": 51 },
+  { "id": 2, "name": "C", "long": 12, "lat": 51 },
+  { "id": 3, "name": "D", "long": 8, "lat": 48 },
+  { "id": 4, "name": "E", "long": 9, "lat": 47 },
+  { "id": 5, "name": "F", "long": 9, "lat": 48 },
+  { "id": 6, "name": "G", "long": 12, "lat": 55 },
+  { "id": 7, "name": "H", "long": 14, "lat": 56 },
+  { "id": 8, "name": "I", "long": 6, "lat": 52 },
+  { "id": 9, "name": "J", "long": 10, "lat": 55 },
+  { "id": 10, "name": "K", "long": 15, "lat": 52 },
+  { "id": 11, "name": "L", "long": 14, "lat": 51 },
+  { "id": 12, "name": "M", "long": 12, "lat": 48 },
+  { "id": 13, "name": "N", "long": 9, "lat": 53 },
+  { "id": 14, "name": "O", "long": 13, "lat": 55 },
+  { "id": 15, "name": "P", "long": 16, "lat": 55 }
+]
